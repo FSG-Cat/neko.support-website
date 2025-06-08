@@ -1,0 +1,8 @@
+cat:
+  name: Cat
+  title: A feline that works on Trust and Saftey
+  url: https://github.com/FSG-Cat/
+  image_url: https://github.com/FSG-Cat.png
+  page: true
+  socials:
+    github: FSG-Cat
