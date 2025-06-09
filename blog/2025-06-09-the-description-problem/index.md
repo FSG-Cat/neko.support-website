@@ -12,7 +12,7 @@ This blog post deals with "the description problem" that I have with some of the
 
 Where to start with this specific word. Well why not start at the place where the wikis start. This word is way too heavily associated with spirituality and gets you into the realm of stuff like astral projection and whatever other spiritual matters.
 
-Cats’ problem with this is what while the word may make a bit of sense to someone as deep in this rabbit hole as Cat the word only works between people who understand this rabbit hole and know my exact situation. Otherwise, you might get lead into thinking that I believe in astrology, astral projection and reincarnation and whatever more the websites that are returned by google talk about.
+Cats’ problem with this is that while the word may make a bit of sense to someone as deep in this rabbit hole as Cat the word only works between people who understand this rabbit hole and know my exact situation. Otherwise, you might get lead into thinking that I believe in astrology, astral projection and reincarnation and whatever more the websites that are returned by google talk about.
 
 ## Therian
 
