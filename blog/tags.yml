@@ -17,3 +17,18 @@ food:
   label: Food
   permalink: /food
   description: Food related posts.
+
+matrix:
+  label: Matrix
+  permalink: /matrix
+  description: Posts relating to the topic of the matrix protocol in some way.
+
+server_hosting:
+  label: Server Hosting
+  permalink: /server_hosting
+  description: Posts relating to server hosting matters.
+
+sys_admin:
+  label: Sys Admin
+  permalink: /sys_admin
+  description: Posts Relating to Systems Administration
