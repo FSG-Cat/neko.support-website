@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2025 Catalan Lover
+//
+// SPDX-License-Identifier: MIT
+
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
