@@ -1,5 +1,7 @@
 ---
-title: Elderflower Cordial
+title: Elderflower Cordial Recipe
+description: Elderflower Cordial Recipe.
+sidebar_position: 2
 ---
 
 ## Description
@@ -13,10 +15,8 @@ These will be annotated per "batch". Cat commonly makes these in sets of 2 at a 
 * 1500 grams of sugar
 * 1500 grams of water
 * 50 grams of Citric Acid
-* 20-30 elderflowers
-* 2-3 Lemons
-
-I should note that the elder flowers are very iffy they are more of a that looks right measurement than an exact science. I need to refine this it could be argued.
+* 250 grams of Elderflowers. Harvested according to instructions.
+* 2-3 Lemons according to taste and size.
 
 I measure the water by weight because I already have the scales out when I make this as our sugar comes in 2kg packs and when making a double I’m not buying 1 2kg and 1 1kg pack just to make it 0 measure. Table sugar is something that gets consumed so don’t waste the money on getting 3kg pre measured if yours comes in 2kg standard like mine does.
 
@@ -43,3 +43,7 @@ Congratulations you now just have to bottle this product in a bunch of bottles a
 ## End Result
 
 Well, the end result of this is cordial and well if you make it with more citric acid, you can even get something that is supposedly good at mixing with liquor for drinks. I found that out when I tried to compensate for too few lemons with extra citric acid while making a triple batch last year.
+
+## Alternative Recipes
+
+So, this recipe got changed because Cats most recent batch was done with 1 counted flowers and 2 actually a lot more flowers than usual. So, I will say that an alternative recipe is to halve the flowers per batch. As in the old Recipe Cat had done last year was half flowers this year Cat did it correctly and got to full flowers when Cat used a scale and counted 30 flowers. Tbh some of the flowers were huge.
