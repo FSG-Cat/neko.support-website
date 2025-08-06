@@ -4,14 +4,14 @@ cat:
   description: Authored by Cat.
 
 t&s:
-  label: Trust and Saftey
+  label: Trust and Safety
   permalink: /t&s
-  description: Trust and Saftey related posts.
+  description: Trust and Safety related posts.
 
 personal_identity:
   label: Personal Identity
   permalink: /personal_identity
-  description: Personal identity related posts. Meant to diffirentiate between personal identity and techical matters like Federated Identity management and Identity Providers in OIDC contexts.
+  description: Personal identity related posts. Meant to differentiate between personal identity and technical matters like Federated Identity management and Identity Providers in OIDC contexts.
 
 food:
   label: Food
