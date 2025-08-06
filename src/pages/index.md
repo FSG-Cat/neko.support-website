@@ -1,5 +1,5 @@
 ---
-title: Welcome to Cats Page
+title: Cats Page
 ---
 
 # Welcome to Cats page
