@@ -9,7 +9,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Welcome to Cats page',
+  title: 'Cats page',
   tagline: 'Glory to the feline overlords',
   favicon: 'img/favicon.svg',
 
